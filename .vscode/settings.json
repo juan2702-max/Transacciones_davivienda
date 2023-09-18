@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Juan Beltran\\Downloads\\apache poi antes\\poi-ooxml-schemas-3.16.jar",
+        "c:\\Users\\Juan Beltran\\Downloads\\apache poi antes\\poi-3.16.jar",
+        "c:\\Users\\Juan Beltran\\Downloads\\apache poi antes\\commons-collections4-4.1.jar",
+        "c:\\Users\\Juan Beltran\\Downloads\\apache poi antes\\poi-ooxml-3.16.jar",
+        "c:\\Users\\Juan Beltran\\Downloads\\apache poi antes\\xmlbeans-2.6.0.jar"
+    ]
+}
